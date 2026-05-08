@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.dapotian.cn">Blog</a> ·
+  <a href="https://262688.xyz">Blog</a> ·
   <a href="https://github.com/fjk0618">GitHub</a> ·
   <a href="https://github.com/fjk0618?tab=repositories">Repositories</a>
 </p>
@@ -64,6 +64,6 @@
 
 ## Links
 
-- Blog: [www.dapotian.cn](https://www.dapotian.cn)
+- Blog: [262688.xyz](https://262688.xyz)
 - GitHub: [@fjk0618](https://github.com/fjk0618)
 - Repositories: [github.com/fjk0618?tab=repositories](https://github.com/fjk0618?tab=repositories)
