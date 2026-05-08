@@ -76,15 +76,40 @@
 
 ## 精选项目
 
-<p align="center">
-  <a href="https://github.com/fjk0618/kangBlog"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fjk0618&repo=kangBlog&theme=tokyonight&hide_border=true&locale=cn" alt="kangBlog" /></a>
-  <a href="https://github.com/fjk0618/magic-video"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fjk0618&repo=magic-video&theme=tokyonight&hide_border=true&locale=cn" alt="magic-video" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fjk0618/fujikang.github.io"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fjk0618&repo=fujikang.github.io&theme=tokyonight&hide_border=true&locale=cn" alt="fujikang.github.io" /></a>
-  <a href="https://github.com/fjk0618/pl5"><img src="https://github-readme-stats.vercel.app/api/pin/?username=fjk0618&repo=pl5&theme=tokyonight&hide_border=true&locale=cn" alt="pl5" /></a>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjk0618/kangBlog"><strong>kangBlog</strong></a><br />
+      一个简约大气的博客。<br /><br />
+      <img src="https://img.shields.io/github/languages/top/fjk0618/kangBlog?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80" alt="主语言" />
+      <img src="https://img.shields.io/github/last-commit/fjk0618/kangBlog?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="最近更新" />
+      <img src="https://img.shields.io/github/stars/fjk0618/kangBlog?style=flat-square&label=Stars" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjk0618/magic-video"><strong>magic-video</strong></a><br />
+      基于 Vue 的视频相关项目。<br /><br />
+      <img src="https://img.shields.io/github/languages/top/fjk0618/magic-video?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80" alt="主语言" />
+      <img src="https://img.shields.io/github/last-commit/fjk0618/magic-video?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="最近更新" />
+      <img src="https://img.shields.io/github/stars/fjk0618/magic-video?style=flat-square&label=Stars" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjk0618/fujikang.github.io"><strong>fujikang.github.io</strong></a><br />
+      个人静态站点与页面沉淀。<br /><br />
+      <img src="https://img.shields.io/github/languages/top/fjk0618/fujikang.github.io?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80" alt="主语言" />
+      <img src="https://img.shields.io/github/last-commit/fjk0618/fujikang.github.io?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="最近更新" />
+      <img src="https://img.shields.io/github/stars/fjk0618/fujikang.github.io?style=flat-square&label=Stars" alt="Stars" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/fjk0618/pl5"><strong>pl5</strong></a><br />
+      近期公开项目记录。<br /><br />
+      <img src="https://img.shields.io/github/languages/top/fjk0618/pl5?style=flat-square&label=%E4%B8%BB%E8%AF%AD%E8%A8%80" alt="主语言" />
+      <img src="https://img.shields.io/github/last-commit/fjk0618/pl5?style=flat-square&label=%E6%9B%B4%E6%96%B0" alt="最近更新" />
+      <img src="https://img.shields.io/github/stars/fjk0618/pl5?style=flat-square&label=Stars" alt="Stars" />
+    </td>
+  </tr>
+</table>
 
 ## 数据看板
 
@@ -93,8 +118,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fjk0618&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&locale=cn" height="165" alt="GitHub 统计" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fjk0618&layout=compact&theme=tokyonight&hide_border=true&locale=cn" height="165" alt="常用语言" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fjk0618&theme=tokyonight" height="180" alt="仓库语言分布" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fjk0618&theme=tokyonight" height="180" alt="提交语言分布" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fjk0618&theme=tokyonight" height="180" alt="GitHub 统计" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fjk0618&theme=tokyonight&utcOffset=8" height="180" alt="提交时间分布" />
 </p>
 
 <p align="center">
